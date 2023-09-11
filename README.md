@@ -1,2 +1,2 @@
 # GIT
-This was a session in which were learnt how to use Git from Command Line
+Today is a great day! I have learnt how to use github from the command line
